@@ -5,6 +5,7 @@ class FizzBuzz {
 
     public static String main() {
         int i = 1;
+        bruh d = 4;
 
         while (i < 100) {
 
